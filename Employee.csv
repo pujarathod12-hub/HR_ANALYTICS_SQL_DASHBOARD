@@ -1,0 +1,11 @@
+emp_id,name,age,gender,department,job_role,joining_date,salary
+E001,Rahul,28,M,IT,Developer,10-06-2019,600000
+E002,Neha,32,F,HR,HR Executive,15-03-2018,550000
+E003,Amit,45,M,Finance,Manager,20-11-2012,900000
+E004,Pooja,26,F,IT,Data Analyst,05-08-2021,450000
+E005,Akash,35,M,Sales,Sales Manager,25-01-2016,700000
+E006,Shreya,29,F,IT,Developer,12-09-2020,580000
+E007,Sameer,41,M,HR,HR Manager,18-04-2010,850000
+E008,Riya,27,F,Finance,Accountant,14-02-2022,420000
+E009,Vikram,38,M,Sales,Sales Executive,30-07-2017,650000
+E010,Sneha,31,F,IT,Data Scientist,21-10-2019,750000
